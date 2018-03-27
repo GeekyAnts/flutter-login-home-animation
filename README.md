@@ -6,7 +6,7 @@ A new open-source Flutter project that enables the developer to quickly get star
 This project contains the basic features of Flutter Animation that are required to build an amazing Flutter application.
 
 # Demo
-![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/tree/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
+![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
 
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.

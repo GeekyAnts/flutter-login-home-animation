@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:dribbledanimation/Screens/Login/index.dart';
-import 'package:dribbledanimation/Screens/Home/index.dart';
+import 'package:dribbbledanimation/Screens/Login/index.dart';
+import 'package:dribbbledanimation/Screens/Home/index.dart';
 
 class Routes {
   Routes() {
     runApp(new MaterialApp(
-      title: "Dribble Animation App",
+      title: "Dribbble Animation App",
       debugShowCheckedModeBanner: false,
       home: new LoginScreen(),
       onGenerateRoute: (RouteSettings settings) {

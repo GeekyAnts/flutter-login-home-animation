@@ -1,4 +1,4 @@
-# dribbledanimation
+# dribbbledanimation
 
 A new Flutter project.
 

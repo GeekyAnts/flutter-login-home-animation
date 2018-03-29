@@ -1,9 +1,11 @@
 
-# Flutter Login_Home Animation
+# Flutter Login Home Animation
 
 A new open-source Flutter project that enables the developer to quickly get started with the Flutter animation and application development. Here’s a GIF that shows a Flutter app that I created. It is a rebuild version of a UI design that I came across on [Dribbble](https://dribbble.com/shots/1945593-Login-Home-Screen).
 
 This project contains the basic features of Flutter Animation that are required to build an amazing Flutter application.
+
+You can also checkout the flow of animation and steps to design it briefly at our medium article [Flutter Login Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
 
 # Demo
 ![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)

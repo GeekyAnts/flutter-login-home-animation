@@ -1,4 +1,4 @@
-import 'package:dribbbledanimation/Routes.dart';
+import 'Routes.dart';
 
 void main() {
   new Routes();

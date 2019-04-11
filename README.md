@@ -17,8 +17,8 @@ You can also checkout the flow of animation and steps to design it briefly at ou
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/GeekyAnts/flutter-login-home-animation/tree/master/
-    $ cd Flutter-LoginAnimation/dribbbledanimation
+    $ git clone https://github.com/GeekyAnts/flutter-login-home-animation
+    $ cd flutter-login-home-animation/dribbbledanimation
     $ flutter run
 
 # Simulate for iOS

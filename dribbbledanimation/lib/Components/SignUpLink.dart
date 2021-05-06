@@ -4,11 +4,10 @@ class SignUp extends StatelessWidget {
   SignUp();
   @override
   Widget build(BuildContext context) {
-    return (new FlatButton(
+    return (new Padding(
       padding: const EdgeInsets.only(
         top: 160.0,
       ),
-      onPressed: null,
       child: new Text(
         "Don't have an account? Sign Up",
         textAlign: TextAlign.center,

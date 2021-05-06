@@ -48,11 +48,11 @@ class LoginScreenState extends State<LoginScreen>
             return new AlertDialog(
               title: new Text('Are you sure?'),
               actions: <Widget>[
-                new FlatButton(
+                new TextButton(
                   onPressed: () => Navigator.of(context).pop(false),
                   child: new Text('No'),
                 ),
-                new FlatButton(
+                new TextButton(
                   onPressed: () =>
                       Navigator.pushReplacementNamed(context, "/home"),
                   child: new Text('Yes'),

@@ -9,7 +9,7 @@ class RowBoxData {
 }
 
 class DataListBuilder {
-  List<RowBoxData> rowItemList = new List<RowBoxData>();
+  List<RowBoxData> rowItemList = [];
   RowBoxData row1 = new RowBoxData(
       title: "Catch up with Tom",
       subtitle: "5 - 6pm  Hangouts",

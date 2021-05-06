@@ -8,3 +8,5 @@ build/
 ios/.generated/
 packages
 .flutter-plugins
+.dart_tool/
+

@@ -44,20 +44,22 @@ class LoginScreenState extends State<LoginScreen>
   Future<bool> _onWillPop() {
     return showDialog(
           context: context,
-          child: new AlertDialog(
-            title: new Text('Are you sure?'),
-            actions: <Widget>[
-              new FlatButton(
-                onPressed: () => Navigator.of(context).pop(false),
-                child: new Text('No'),
-              ),
-              new FlatButton(
-                onPressed: () =>
-                    Navigator.pushReplacementNamed(context, "/home"),
-                child: new Text('Yes'),
-              ),
-            ],
-          ),
+          builder: (context) {
+            return new AlertDialog(
+              title: new Text('Are you sure?'),
+              actions: <Widget>[
+                new FlatButton(
+                  onPressed: () => Navigator.of(context).pop(false),
+                  child: new Text('No'),
+                ),
+                new FlatButton(
+                  onPressed: () =>
+                      Navigator.pushReplacementNamed(context, "/home"),
+                  child: new Text('Yes'),
+                ),
+              ],
+            );
+          },
         ) ??
         false;
   }

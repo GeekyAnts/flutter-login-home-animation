@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:dribbbledanimation/Screens/Login/index.dart';
-import 'package:dribbbledanimation/Screens/Home/index.dart';
+import 'Screens/Login/index.dart';
+import 'Screens/Home/index.dart';
 
 class Routes {
   Routes() {

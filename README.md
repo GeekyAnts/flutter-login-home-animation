@@ -10,6 +10,26 @@ You can also checkout the flow of animation and steps to design it briefly at ou
 # Demo
 ![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
 
+
+## About
+
+   This Flutter animation example is created by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation),
+   showcasing beautiful UI animations for login screens.
+
+   ### Flutter Development Services
+
+   Looking to build stunning Flutter applications?
+   [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation) offers:
+
+   - [Flutter App Development](https://geekyants.com/hire-flutter-developers?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation) -
+     Cross-platform apps with native performance
+   - [Mobile Engineering](https://geekyants.com/service/hire-mobile-app-development-services?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation) -
+     Complete mobile solutions
+   - [UI/UX Design](https://geekyants.com/service/ui-ux-design-services?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation) -
+     Creating delightful user experiences
+
+   [Start your project](https://geekyants.com/hire?utm_source=github&utm_medium=opensource&utm_campaign=flutter-login-home-animation)
+
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
 
